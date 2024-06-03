@@ -1,6 +1,4 @@
 # Shopit
-
-## Description
 Shopit is a fully functional e-commerce website built using HTML, CSS, and JavaScript. It provides a platform for users to browse, select, and purchase products online. The website is designed with a user-friendly interface and easy navigation to enhance the shopping experience.
 
 ## Installation
